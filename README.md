@@ -65,9 +65,9 @@ A collection of **time-series forecasting models** that predict **stock prices, 
 ---
 
 ### 🤖 **AI Virtual Assistant**  
-> **🔹 Smart AI chatbot with voice and text interactions**  
+![AI Chatbot](https://i.pinimg.com/originals/2c/7b/8d/2c7b8d1f33c99c1a0c142fa5033ffbc9.gif?width=100&height=120)
 
-![AI Chatbot](https://cdn.dribbble.com/userupload/22006145/file/original-34b279d8bf633bf897347b7e768ccb80.gif)  
+> **🔹 Smart AI chatbot with voice and text interactions**  
 
 🎥 **Demo Video:** [![Watch Now](https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://photos.app.goo.gl/ZiLHGsKu2PeGLzz26)  
 
