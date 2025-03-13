@@ -42,7 +42,7 @@ This AI tool **transcribes audio into text** using **DeepSpeech models** and sup
 ### 🔍 **Born Damage Detector (Trained from Scratch – No Pre-trained Model!)**  
 > **🔹 AI-powered defect detection trained from scratch on custom dataset**  
 
-![Damage Detection](https://img.auntminnie.com/files/base/smg/all/image/2024/04/Child_rib_fractures.661ee1589add4.png?auto=format%2Ccompress&fit=max&q=70&w=1200)   
+![Damage Detection](https://img.auntminnie.com/files/base/smg/all/image/2024/04/Child_rib_fractures.661ee1589add4.png?auto=format%2Ccompress&fit=max&q=70&w=1200)  
 
 **Description:**  
 ✅ **This model is trained from scratch on a custom dataset, without using any pre-trained models (like YOLO or ResNet).**  
