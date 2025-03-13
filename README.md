@@ -77,7 +77,7 @@ An **intelligent virtual assistant** that responds to user queries using **GPT-b
 ---
 
 ## **📬 Let's Connect!**  
-📧 **Email:** your-email@example.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YOURUSERNAME)  
+📧 **Email:** gopalkoladiya205@gmail.com
+🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/gaurav-koladiya-7a0339300/)  
 
 🔥 **Follow me for more exciting AI projects!** 🚀  
