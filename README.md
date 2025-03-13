@@ -39,13 +39,17 @@ This AI tool **transcribes audio into text** using **DeepSpeech models** and sup
 
 ---
 
-### 🔍 **Born Damage Detector**  
-> **🔹 AI-powered defect detection for industrial applications**  
+### 🔍 **Born Damage Detector (Trained from Scratch – No Pre-trained Model!)**  
+> **🔹 AI-powered defect detection trained from scratch on custom dataset**  
 
-![Damage Detection](https://img.auntminnie.com/files/base/smg/all/image/2024/04/Child_rib_fractures.661ee1589add4.png?auto=format%2Ccompress&fit=max&q=70&w=1200)  
+🎥 **Demo Video:** [![Watch Now](https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/YOUR_VIDEO_ID)  
 
 **Description:**  
-A **computer vision-based damage detection system** that uses **YOLOv5 & CNN models** to identify cracks, dents, and defects in materials. The model runs on **Flask** and can be integrated into **industrial inspection systems**.  
+✅ **This model is trained from scratch on a custom dataset, without using any pre-trained models (like YOLO or ResNet).**  
+✅ **The dataset was collected and annotated manually to ensure high accuracy and real-world applicability.**  
+✅ The AI detects **cracks, dents, and other damage** in industrial materials using **CNN-based architectures**.  
+
+> 🚀 **Built & Deployed using Flask for real-time defect detection.** 
 
 ---
 
