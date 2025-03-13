@@ -25,6 +25,7 @@ I’m an **AI Developer** specializing in **Deep Learning, Machine Learning, and
 
 **Description:**  
 This project uses **Deep Learning & Reinforcement Learning** to train a self-driving car. It is deployed in the **Udacity Self-Driving Car Simulator** and utilizes **CNN-based behavioral cloning** for steering control.  
+> 📌 "This project was developed in 2024 using deep learning for autonomous driving."
 
 ---
 
