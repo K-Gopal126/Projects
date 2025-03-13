@@ -10,7 +10,7 @@ I’m an **AI Developer** specializing in **Deep Learning, Machine Learning, and
 - 🗣️ **NLP & Virtual Assistants**  
 
 📫 **Let's connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-koladiya-7a0339300/)  
 
 ---
 
