@@ -75,6 +75,24 @@ A collection of **time-series forecasting models** that predict **stock prices, 
 An **intelligent virtual assistant** that responds to user queries using **GPT-based models**. It supports **voice commands, contextual understanding, and personalized responses**. Deployed using **Flask**.  
 
 ---
+### **Privacy Screen Project**
+
+![AI Chatbot](https://www.techsmith.com/blog/wp-content/uploads/2020/01/blur-tool-screen-captures.png)
+
+**Description:**
+
+This project is designed to enhance the privacy of users by implementing a **privacy screen** feature that limits the screen's visibility angle. The tool ensures that sensitive or personal information displayed on the screen is visible only to the person using the device, while preventing others from seeing the screen from an angle. 
+
+The **Privacy Screen** can be particularly useful in environments where you frequently work in public spaces like cafes, airports, or offices. With this software, you can protect confidential information and maintain privacy without the need for physical privacy screen filters.
+
+**Key Features:**
+- **Customizable Privacy Angles:** Adjust the angle of screen visibility based on user preferences.
+- **User-Friendly Interface:** Easy to toggle on and off without disrupting workflow.
+- **Energy Efficient:** Low resource usage to ensure smooth performance without draining the system.
+- **Cross-Platform Compatibility:** Works across different screen sizes and resolutions.
+
+Perfect for users looking to keep their screen data safe from curious onlookers, this privacy screen tool adds an extra layer of protection to everyday digital activities.
+
 
 ## **📬 Let's Connect!**  
 📧 **Email:** gopalkoladiya205@gmail.com
